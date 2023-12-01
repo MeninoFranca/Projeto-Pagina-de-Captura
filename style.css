@@ -17,4 +17,11 @@ header{
 body{
     padding: 0;
     margin: 0;
+    background-color: black;
+}
+
+.container{
+    max-width: 1000px;
+    margin:auto;
+
 }
