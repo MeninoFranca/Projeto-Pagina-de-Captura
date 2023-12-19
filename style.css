@@ -64,7 +64,7 @@ input[type='submit']{
 
 section{
     padding: 20px;
-    background-image: url(/images/people.jpg);
+    background-image: url(images/people.jpg);
     background-size: cover;
     overflow: hidden;
 }
