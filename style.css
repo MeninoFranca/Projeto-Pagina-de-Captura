@@ -56,7 +56,7 @@ input, select{
     margin-bottom: 10px; 
 }
 
-input[type='submit']{
+#button{
     color: white;
     font-weight: bold;
     background-color: #48c5ce;
