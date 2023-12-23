@@ -61,6 +61,16 @@ input, select{
     font-weight: bold;
     background-color: #48c5ce;
 }
+#button:hover{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    background-color: #0a82f38a;
+}
+#button:active{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    background-color: #8ebae4;
+}
 
 section{
     padding: 20px;
